@@ -2,8 +2,7 @@
 
 ## Overview
 
-This is a responsive and fully accessible portfolio website built using **HTML**, **CSS**, and **JavaScript**. The website showcases the professional profile of **Katherine Olivia**, including experience, projects, technical skills, education, and certifications. It is designed for academic, internship, and professional networking purposes.
-
+This is a responsive and fully accessible portfolio website built using **HTML**, **CSS**, and **JavaScript**. The website showcases the professional profile of **Katherine Olivia**, including experience, projects, technical skills, education, and certifications. It is designed for academic, internship, and professional networking purposes. Portfolio adds to the resume.
 ## Features
 
 - Clean and modern responsive design
